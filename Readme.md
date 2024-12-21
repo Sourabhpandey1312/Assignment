@@ -47,6 +47,7 @@ jupyter notebook notebook.ipynb
 ## Output
 
 The pipeline generates:
-	1.	Preprocessed Dataset: Cleaned and prepared for modeling.
-	2.	Trained Model: A model trained to predict audience ratings.
-	3.	Validation Metrics: Accuracy and other relevant metrics to validate the model’s performance.
+
+1.	Preprocessed Dataset: Cleaned and prepared for modeling.
+2.	Trained Model: A model trained to predict audience ratings.
+3.	Validation Metrics: Accuracy and other relevant metrics to validate the model’s performance.
